@@ -1,0 +1,24 @@
+div {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: #e2e8f0;
+    background-color: #0f172a;
+
+}
+header{
+    background-color: #1e293b;
+    color: #e2e8f0;
+    padding: 20px;
+
+    text-align: center;
+}
+
+.card {
+    background: rgba(30, 41, 59, 0.8);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 24px;
+    margin: 20px auto;
+    max-width: 400px;
+}
